@@ -7,6 +7,11 @@
 
 # Diapositivas de la primera parte del proyecto: 
 https://www.canva.com/design/DAFqRYjzicw/8jLMDnuto-hOJ7VkrrXp1A/edit?utm_content=DAFqRYjzicw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+# Videos 
+## 1
+https://youtu.be/HmrgHHH3HjE
+## 2
+https://youtu.be/3mcBf1uxAoM
 
 # Bases de datos empleadas: 
 ## NoSQL
@@ -145,15 +150,25 @@ Podemos concluir que a partir de las regiones de latinoamerica baja el nivel de 
 # Casos estudio en Power Bi en la nube
 ## Promedio de suicidos entre dos generaciones
 ![Captura de pantalla 1](https://github.com/OrlandH/AnalisisProyecto/assets/102696740/35359b77-26df-40bf-ac1c-69660d31c33f)
+- Podemos ver los suicidios entre la generacion x y los millenials dentro de Estados Unidos con un promedio de edad de 15 - a 24 años
+- En promedio la generacion que registra una mayor tasa de suicidios son los millenials con 50.38%
+- La generacion x comprende de 1965 a 1981 y a partir del los años 90 la tasa de suicidios incremento en un 0.75%
 ## Juegos con mayor promedio de ventas en la plataforma PS4
 ![Captura de pantalla 2](https://github.com/OrlandH/AnalisisProyecto/assets/102696740/2d1e675c-0383-4073-90a9-d6e9d7ffe14e)
+- Podemos observar que los videojuegos con mayor numero de ventas a nivel global son GTA V con un 11.98 % y COD Black Ops 3 con un 14.25%
+- Entre los años 2014 - 2015 es donde se produce el mayor numero de ventas en la plataforma de PS4
+- El juego Sports con mayor numero de ventas es FIFA 17 siendo un 4.49 % mas vendido que su competidor PES 2017
 ## Promedio de compras en juegos en la plataforma de PC
 ![Captura de pantalla 3](https://github.com/OrlandH/AnalisisProyecto/assets/102696740/51117c2a-facd-4cf3-9359-39bb3352c2f1)
+-Se puede observar que en el año de 1996 las ventas de juegos en PC tienen un promedio de 1 punto sobre las demas ventas
+-Durante los años 2000 el año en que mayor venta se registro fue en el 2013, en los años posteriores el numero decrementa debido a las consolas de nueva generacion y nuevos juegos exclusvios para estas.
 ## Promedio de goles como local en el entretiempo y promedio de goles como visitante en el entretiempo
 ![Captura de pantalla 4](https://github.com/OrlandH/AnalisisProyecto/assets/102696740/d9a2a059-2c0d-481f-a8aa-197184009cff)
+- La seleccion con mayor promedio de gol antes de los primeros 45 minutos es la seleccion de Alemania con un 1.33 % sobre el resto de selecciones como Portugal, Francia, Argentina y Brasil
+- La seleccion de España tiene el menor promedio de gol antes de los primeros 45 minutos con un 0.25% es decir que de 4 partidos jugados la probabilidad de marcar un gol antes de los 45 minutos es de 0.12%
 ##  Promedio de suicidos entre EEUU y Uruguay
 ![Captura de pantalla 5](https://github.com/OrlandH/AnalisisProyecto/assets/102696740/8887085d-cf96-442e-a545-132b8f72a85c)
-
+- El promedio de suicidios en Uruguay en la generacion millenial esta solamente por debajo del 3.9% sobre EEUU, esto comparado al tamaño y poblacion del pais.
 # Conclusiones: 
 En conclusión, la combinación de Python, SQL y Power BI se erige como una alianza poderosa en el ámbito del análisis de datos. Python, con su versatilidad y amplia gama de bibliotecas, proporciona la capacidad de manipular y entender los datos de manera eficiente. SQL, por su parte, es esencial para acceder y gestionar datos en bases de datos relacionales, permitiendo consultas y uniones de datos cruciales para el análisis.
 En resumen, esta trinidad de tecnologías proporciona un enfoque integral para el análisis de datos, desde la extracción y procesamiento inicial hasta la presentación de hallazgos de manera efectiva. La sinergia entre estas herramientas es esencial en un mundo cada vez más orientado hacia la toma de decisiones basada en datos, capacitando a profesionales y empresas para aprovechar al máximo la riqueza de información contenida en sus conjuntos de datos y resolver problemas complejos de manera informada y eficaz.
