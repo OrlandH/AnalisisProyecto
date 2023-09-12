@@ -142,7 +142,17 @@ Podemos concluir que a partir de las regiones de latinoamerica baja el nivel de 
 -En promedio las aplicaciones de citas tienen mas rating en forma pagada que gratuito
 -Las aplicaciones mas acaras en promedio son las Medicinales
 -Las aplicaciones de citas son 4tas en precio alto, y los que triunfan mas en la hora de ser apps pagadas. Asi que es una buena opcion al momento de generar algo de dinero
-
+# Casos estudio en Power Bi en la nube
+## Promedio de suicidos entre dos generaciones
+![Captura de pantalla 1](https://github.com/OrlandH/AnalisisProyecto/assets/102696740/35359b77-26df-40bf-ac1c-69660d31c33f)
+## Juegos con mayor promedio de ventas en la plataforma PS4
+![Captura de pantalla 2](https://github.com/OrlandH/AnalisisProyecto/assets/102696740/2d1e675c-0383-4073-90a9-d6e9d7ffe14e)
+## Promedio de compras en juegos en la plataforma de PC
+![Captura de pantalla 3](https://github.com/OrlandH/AnalisisProyecto/assets/102696740/51117c2a-facd-4cf3-9359-39bb3352c2f1)
+## Promedio de goles como local en el entretiempo y promedio de goles como visitante en el entretiempo
+![Captura de pantalla 4](https://github.com/OrlandH/AnalisisProyecto/assets/102696740/d9a2a059-2c0d-481f-a8aa-197184009cff)
+##  Promedio de suicidos entre EEUU y Uruguay
+![Captura de pantalla 5](https://github.com/OrlandH/AnalisisProyecto/assets/102696740/8887085d-cf96-442e-a545-132b8f72a85c)
 
 # Conclusiones: 
 En conclusión, la combinación de Python, SQL y Power BI se erige como una alianza poderosa en el ámbito del análisis de datos. Python, con su versatilidad y amplia gama de bibliotecas, proporciona la capacidad de manipular y entender los datos de manera eficiente. SQL, por su parte, es esencial para acceder y gestionar datos en bases de datos relacionales, permitiendo consultas y uniones de datos cruciales para el análisis.
