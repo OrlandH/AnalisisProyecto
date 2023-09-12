@@ -22,7 +22,7 @@ En esta estadistica podemos observar que la edad maxima de los competidores es d
 
 En el concierto de Taylor hubo un 76% de boletos vendidos y el numero total de actuacion junto con el Tour fue de 2 en la ciudad de Philadelphia.
 
-## PlasTore-Google
+## PlayStore-Google
 
 ![image](https://github.com/OrlandH/AnalisisProyecto/assets/119060037/d4858e23-e7ed-4c24-8362-8b96fdac3389)
 
@@ -33,3 +33,10 @@ En la PlayStore de google se encontro que 160 cuentas se instalaron una aplicaci
 ![image](https://github.com/OrlandH/AnalisisProyecto/assets/119060037/f6d130b7-19f5-47b7-9625-a1ace30dddab)
 
 En lo juegos olimpicos el menor peso de un participante es de 153 con la edad de 41 años del sexo masculino.
+
+## PlayStore-Google
+
+![image](https://github.com/OrlandH/AnalisisProyecto/assets/119060037/c548285c-6970-4b1f-ae3c-01a3abf04d7a)
+
+EN la playstore de google se realizo una sola isntalación que se realizo el dia 26 de diciembre del 2020.
+
